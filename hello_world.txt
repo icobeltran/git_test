@@ -1,0 +1,3 @@
+blah blah blah text
+more text blah blah
+wow this is cool ctrl + s then look at terminal
